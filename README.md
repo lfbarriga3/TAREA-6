@@ -29,32 +29,49 @@ Describir aplicaciones relacionadas a la inducción electromagnética
 
 **2.1.1 La forma de onda sinusoidal**
 
+![image](https://user-images.githubusercontent.com/116696484/211413160-a292049d-919a-4b59-bf74-192c7d7c9ee3.png)
 
 **2.1.2 Fuentes de voltaje sinusoidal**
+
+![image](https://user-images.githubusercontent.com/116696484/211414784-1bf45c42-3506-4d4e-b160-497185ab0a8e.png)
 
 
 **2.1.3 Valores sinusoidales de voltaje y corriente**
 
+![image](https://user-images.githubusercontent.com/116696484/211417239-b15a50dd-0e01-44d1-855e-bf398afd774c.png)
 
 **2.1.4 Medición angular de una onda seno**
 
+![image](https://user-images.githubusercontent.com/116696484/211425308-e3696538-3a80-4ced-bdb9-5c7997c8dfdd.png)
 
 **2.1.5 La fórmula de la onda seno**
+
+![image](https://user-images.githubusercontent.com/116696484/211426372-22ae3ecb-66d7-4b9e-bbfe-5d5e9f7c3e68.png)
 
 
 **2.1.6 Introducción a los fasores**
 
+![image](https://user-images.githubusercontent.com/116696484/211431359-c3046c51-63f7-4967-920f-3f304e8960d1.png)
 
 **2.1.7 Análisis de circuitos de CA**
 
+![image](https://user-images.githubusercontent.com/116696484/211433847-d6d6c86d-4d22-46ac-bd5a-93d8e9036624.png)
 
 **2.1.8 Voltajes superpuestos de CD y de CA**
+
+![image](https://user-images.githubusercontent.com/116696484/211436511-4572e966-c0a1-41f6-8d7a-ab2ac6f1aab1.png)
 
 
 **2.1.9 Formas de onda no sinusoidales**
 
 
+![image](https://user-images.githubusercontent.com/116696484/211439490-7deea0f1-c81e-49d6-8660-750701cb5e31.png)
+
+
 **2.1.10 El osciloscopio**
+
+![image](https://user-images.githubusercontent.com/116696484/211441818-916dd7d4-879d-4f0c-b866-f5765d898582.png)
+
 
 **2.2 Capítulo 12: Capacitores**
 
