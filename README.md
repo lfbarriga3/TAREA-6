@@ -77,22 +77,21 @@ Describir aplicaciones relacionadas a la inducción electromagnética
 
 **2.2.1 El capacitor básico**
 
-![image](https://user-images.githubusercontent.com/116696484/210280716-f46e21dc-3fae-41de-8436-02c57553161d.png)
+![image](https://user-images.githubusercontent.com/116696484/211448124-d77e9610-9585-44f7-99eb-f086a3d6f528.png)
 
 
 **2.2.2 Tipos de capacitores**
 
-![image](https://user-images.githubusercontent.com/116696484/210280728-27a30aa5-a176-4fb3-87aa-95f05931a09a.png)
+![image](https://user-images.githubusercontent.com/116696484/211449749-b1b6d83e-e69e-4b61-ab86-cdd771386074.png)
 
 **2.2.3 Capacitores en serie**
 
-![image](https://user-images.githubusercontent.com/116696484/210280760-9f8beff2-afb2-4778-bf42-7ea3672e1a0f.png)
+![image](https://user-images.githubusercontent.com/116696484/211451404-f5a5bc12-2a7a-4bc7-b022-44c218b31dda.png)
 
 
 **2.2.4 Capacitores en paralelo**
 
-![image](https://user-images.githubusercontent.com/116696484/210280770-c2ef16d4-559a-4392-bf9c-d73f2259021f.png)
-
+![image](https://user-images.githubusercontent.com/116696484/211452182-180b35ac-ed9d-4f77-8c08-a44c79dc98bd.png)
 
 **2.2.5 Capacitores en circuitos de CD**
 
