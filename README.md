@@ -95,18 +95,21 @@ Describir aplicaciones relacionadas a la inducción electromagnética
 
 **2.2.5 Capacitores en circuitos de CD**
 
-![image](https://user-images.githubusercontent.com/116696484/210280779-7892c2cd-b8ed-469b-b77e-b7f11801c604.png)
+![image](https://user-images.githubusercontent.com/116696484/211913233-8b320ccd-c0cd-4f0b-b204-f6083c945ad3.png)
 
 
 **2.2.6 Capacitores en circuitos de CA**
 
-![image](https://user-images.githubusercontent.com/116696484/210282295-20e98fc8-da3a-48ab-a8b2-ef1f9abc8885.png)
+![image](https://user-images.githubusercontent.com/116696484/211915390-5cdffaea-8633-4449-a8ed-a9fcb0c48e53.png)
 
 **2.2.7 Aplicaciones de los capacitores**
+
+![image](https://user-images.githubusercontent.com/116696484/211939942-50ee4342-b653-451f-b4da-b92f59b482c1.png)
 
 
 **2.2.8 Circuitos de capacitor conmutados**
 
+![image](https://user-images.githubusercontent.com/116696484/211943201-52e958ab-c99c-4cb7-882a-e9731c0f3c57.png)
 
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS 
 
