@@ -117,95 +117,120 @@ Describir aplicaciones relacionadas a la inducción electromagnética
 
 ***2. Calcule el periodo de cada uno de los siguientes valores de frecuencia:***
 
-![image](https://user-images.githubusercontent.com/116696484/210362117-b0afd3b2-d8b1-4fce-b185-9e832b7517fd.png)
-
+![image](https://user-images.githubusercontent.com/116696484/212768478-fca5e37d-b49b-4b27-878a-154823f5f628.png)
 
 ***4. Una onda seno tiene frecuencia de 50 kHz. ¿Cuántos ciclos completa en 10 ms?***
 
-![image](https://user-images.githubusercontent.com/116696484/210362234-7f5e8baf-0b52-449b-970b-8d3ea1d7b0c5.png)
+![image](https://user-images.githubusercontent.com/116696484/212768504-299211c4-c66e-4687-8c91-ce5b816561cd.png)
 
 ***6. Cierto generador de cuatro polos gira a 3600 rpm. ¿Cuál es la frecuencia del voltaje que produce?***
 
-![image](https://user-images.githubusercontent.com/116696484/210362299-5576ae39-85ea-4b0a-bc18-a01abee679c6.png)
+![image](https://user-images.githubusercontent.com/116696484/212768527-d060ef74-0fd8-4639-a201-6b2765dbc142.png)
 
 ***8. El valor pico de una onda seno es de 12 V. Determine los siguientes valores:***
 
-![image](https://user-images.githubusercontent.com/116696484/210362376-5e929fa5-6882-4851-acef-08406b5e2fe8.png)
+![image](https://user-images.githubusercontent.com/116696484/212768539-5b74f82b-b2a8-46f2-9ec2-3c94d8259419.png)
 
 ***10. Para la onda seno de la figura 11-77, determine los valores pico, pico a pico, rms y promedio.***
 
-![image](https://user-images.githubusercontent.com/116696484/210362429-58643fc5-85ca-4a2d-929a-d1b0cb3f8fb2.png)
+![image](https://user-images.githubusercontent.com/116696484/212768559-2c97fd89-4c52-4c4e-807f-047abbefd7c9.png)
+
+![image](https://user-images.githubusercontent.com/116696484/212768577-47394a35-13de-475d-ad25-164ce8584960.png)
 
 
 ***12. Cambie los siguientes valores angulares de radianes a grados:***
 
-![image](https://user-images.githubusercontent.com/116696484/210362532-d93ae834-620f-4aa5-a9d8-ae4a48b3a8bb.png)
-
+![image](https://user-images.githubusercontent.com/116696484/212768599-50f31b3c-1b47-4eed-8172-efcb06916c41.png)
 
 ***14. Una onda seno tiene un pico positivo en 75° y otro con un pico positivo en 100°. ¿Cuánto se desfasa cada onda seno con respecto a la referencia de 0°? ¿Cuál es el ángulo de fase entre estas ondas?***
 
-![image](https://user-images.githubusercontent.com/116696484/210362598-0a71f8da-94bf-401f-98be-a2556c7b2af0.png)
+La onda con pico positivo de 75 grados tiene un desfase de 15 grados, mientras que la onda de 100 grados tiene un desfase de 10 grados. El ángulo de fase entre estas ondas es la resta del ángulo de 100 grados menos 75 grados, dando como resultado un ángulo de fase de 25 grados que se encuentra entre las dos ondas.
 
-***16. Cierta onda seno tiene un cruce por cero hacia positivo en 0° y valor rms de 20 V. Calcule su valor instantáneo en cada uno de los siguientes ángulos:***
+***16. Cierta onda seno tiene un cruce por cero hacia positivo en 0° y valor rms de 20 V. Calcule su valor instantáneo en cada uno de los siguientes ángulos:***
 
-![image](https://user-images.githubusercontent.com/116696484/210362717-f880dd5c-8fe2-417b-89f7-52039008f872.png)
+![image](https://user-images.githubusercontent.com/116696484/212768698-48b3f9e9-ba61-443d-a46e-6829b2b6c99d.png)
 
-![image](https://user-images.githubusercontent.com/116696484/210362754-71e2331c-2ed6-48f6-b886-beeca20990eb.png)
+![image](https://user-images.githubusercontent.com/116696484/212768725-b758412f-13bd-4bdb-8e2c-fbaa46e317d4.png)
 
 
 ***18. Para una onda seno referida a 0° con valor rms de 6.37 V, determine el valor instantáneo en cada uno
 de los puntos siguientes:***
 
-![image](https://user-images.githubusercontent.com/116696484/210362829-d3b6a15a-9bd5-4616-8342-f17fa5a724be.png)
+![image](https://user-images.githubusercontent.com/116696484/212768769-510fa374-e9de-4f40-893a-a463362fb3fd.png)
+
+![image](https://user-images.githubusercontent.com/116696484/212768815-86be3c3b-5cc1-4a46-bb76-d7f77912ac78.png)
+
 
 ***20. Repita el problema 19 para el caso en que la onda seno A va 30° delante de la onda seno B***
 
-![image](https://user-images.githubusercontent.com/116696484/210363013-763820fa-3056-4613-844d-b607e6b892cd.png)
+![image](https://user-images.githubusercontent.com/116696484/212768942-4830a692-ff47-447f-a507-bcaf1589c29b.png)
 
 
-***22. Trace un diagrama fasorial para representar las ondas seno de la figura 11-78 con respecto a la referencia de 0°***
+***22. Trace un diagrama fasorial para representar las ondas seno de la figura 11-78 con respecto a la referencia de 0°***
 
-![image](https://user-images.githubusercontent.com/116696484/210363079-081179f4-5a4f-4ce3-9b30-bf9f02c5bc84.png)
-
-![image](https://user-images.githubusercontent.com/116696484/210363111-3076b906-1c8b-49d4-a77e-fcec8efb57d1.png)
+![image](https://user-images.githubusercontent.com/116696484/212768961-41f4ee5e-f07a-4c2e-8987-2f85ce79df85.png)
 
 
 ***24. Determine la frecuencia para cada velocidad angular:***
 
-![image](https://user-images.githubusercontent.com/116696484/210363175-5f872231-2d7f-4d3c-83fd-5f9102a23abe.png)
+![image](https://user-images.githubusercontent.com/116696484/212769031-b86ceb5b-2da6-47a3-b613-1b5cfd598c3c.png)
+
 
 ***26. Se aplica un voltaje sinusoidal al circuito resistivo de la figura 11-80. Determine los valores siguientes.***
 
 ![image](https://user-images.githubusercontent.com/116696484/210363227-717cea3c-b918-4693-8736-4dbd8b4108aa.png)
 
-***28. Determine el voltaje rms entre los extremos de R3 en la figura 11-82***
+***28. Determine el voltaje rms entre los extremos de R3 en la figura 11-82 Determine los valores siguientes:
 
-![image](https://user-images.githubusercontent.com/116696484/210363294-04140f5d-0355-4a08-a50e-dc6b08900479.png)
+(a) Irms
+
+(b) Iprom
+
+(c) Ip
+
+(d) Ipp
+
+(e) i en el pico positivo***
+
+![image](https://user-images.githubusercontent.com/116696484/212769152-c3dcff95-c551-43e6-975c-97d8b3df4e71.png)
 
 ***30. ¿Cuánto voltaje de cd se debe agregar a una onda seno de 3 V rms para hacer el voltaje resultante no alterno (valores negativos)?***
 
-![image](https://user-images.githubusercontent.com/116696484/210363389-081c3465-d0b4-4b12-a26b-962641c918b9.png)
-
-![image](https://user-images.githubusercontent.com/116696484/210363409-077285de-e7f5-4313-a1d4-5b56adeacd76.png)
+![image](https://user-images.githubusercontent.com/116696484/212769175-14725449-437a-4f45-a1bc-d2119d61dbd5.png)
 
 
 **** 32. La figura 11-83 muestra una fuente de voltaje sinusoidal dispuesta en serie con una fuente de cd. Efectivamente, los dos voltajes están superpuestos. Determine la disipación de potencia en el resistor de carga***
 
-![image](https://user-images.githubusercontent.com/116696484/210363447-9f1821f3-75c3-4252-ab9d-4a9b3cba8d0a.png)
+![image](https://user-images.githubusercontent.com/116696484/212769221-40f50488-62d8-4860-867c-9dbf08a81938.png)
 
 **34. La frecuencia de repetición de una forma de onda pulsante es de 2 kHz, y el ancho de pulso es de 1 ms. ¿Cuál es el ciclo de trabajo en porcentaje?**
+
+![image](https://user-images.githubusercontent.com/116696484/212769258-43ff69bd-dc72-4456-a571-48fc3fdd60bf.png)
 
 
 **36. Determine el ciclo de trabajo de cada una de las formas de onda mostradas en la figura 11-86.**
 
+![image](https://user-images.githubusercontent.com/116696484/212769301-f911371c-2b22-4440-bd7f-31989aea40f9.png)
+
+
 **38. ¿Cuál es la frecuencia de cada una de las formas de onda mostradas en la figura 11-86?**
+
+![image](https://user-images.githubusercontent.com/116696484/212769336-7f80b26b-16fb-4c44-901a-30233d0b0983.png)
+
 
 **40. Una forma de onda no sinusoidal llamada escalonada se muestra en la figura 11-88. Determine su valor promedio**
 
+![image](https://user-images.githubusercontent.com/116696484/212769386-b6fbb095-c2bb-4499-9352-4566ef8063e7.png)
+
+
 **42. ¿Cuál es la frecuencia fundamental de la onda cuadrada mencionada en el problema 41?**
+
+![image](https://user-images.githubusercontent.com/116696484/212769410-e9df668d-0b7b-4520-b664-0612ecac8a74.png)
+
 
 **44. Con base en los ajustes del instrumento y en un examen de la pantalla del osciloscopio y de la tarjeta prototipo mostrados en la figura 11-90, determine la frecuencia y el valor pico de las señales de entrada y salida. La forma de onda mostrada es el canal 1. Trace la forma de onda del canal 2 como aparecería en el osciloscopio con los ajustes indicados**
 
+![image](https://user-images.githubusercontent.com/116696484/212769467-d0192847-fd05-4a9e-9ba0-2e2255d5de31.png)
 
 
 **2.2 Capítulo 12: Capacitores**
