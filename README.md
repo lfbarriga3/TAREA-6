@@ -364,8 +364,7 @@ https://youtu.be/WEAH1AmQp0Q
 
 A lo largo del presente informe se aprendió que un voltaje alterno es uno que cambia de polaridad con cierta rapidez. La forma de onda sinusoidal (onda seno) es el tipo más común y fundamental porque todos los demás tipos de formas de onda repetitivas pueden ser descompuestos en ondas seno compuestas. La onda seno es un tipo periódico de forma de onda que se repite a intervalos fijos
 
-Adicionalmente se conoció que un capacitor es un dispositivo eléctrico que puede guardar carga eléctrica, con lo cual crea un campo eléctrico que, a su vez, guarda energía. La medida de
-la capacidad de almacenamiento de energía de un capacitor es su capacitancia. Cuando se aplica unacseñal sinusoidal a un capacitor, éste reacciona de cierta manera y produce oposición a la corriente, la cual depende de la frecuencia y la señal aplicada. Esta oposición a la corriente se llama reactancia capacitiva.
+Adicionalmente se conoció que un capacitor es un dispositivo eléctrico que puede guardar carga eléctrica, con lo cual crea un campo eléctrico que, a su vez, guarda energía. La medida de la capacidad de almacenamiento de energía de un capacitor es su capacitancia. Cuando se aplica unacseñal sinusoidal a un capacitor, éste reacciona de cierta manera y produce oposición a la corriente, la cual depende de la frecuencia y la señal aplicada. Esta oposición a la corriente se llama reactancia capacitiva.
 
 
 ### 6. BIBLIOGRAFÍA
@@ -374,6 +373,4 @@ Campomanes, J. G. (1990). Circuitos eléctricos (Vol. 2). Universidad de Oviedo.
 
 Floyd, T. L. (2007). Principios de circuitos eléctricos (8a ed). Pearson Educación.
 
-Martín, J. C. (2012). Magnetismo y electromagnetismo (Máquinas eléctricas). Editex.
-
-Purcell, E. M. (2001). Electricidad y magnetismo (Vol. 2). Reverté.
+Alarcón Talaverano, J. D. (2021). Ley de Gauss–Potencial eléctrico–Capacitancia. 1. Carga y flujo eléctrico. 2. Cálculo del flujo eléctrico. 3. Ley de Gauss. 4. Aplicaciones de la ley de Gauss. 5. Energía potencial eléctrica. 6. Potencial eléctrico. 7. Superficies equipotenciales. 8. Capacitores, capacitancia. 9. Capacitores en serie y en paralelo. 10. Almacenamiento de energía en capacitores y energía del campo eléctrico. 11. Dieléctricos.
