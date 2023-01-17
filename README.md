@@ -358,7 +358,7 @@ Cuando un capacitor grande es conectado desde un punto de polarizacion hacia tie
 
 ### 4. VIDEO
 
-https://youtu.be/WEAH1AmQp0Q
+https://youtu.be/JwMQ6kKNJdE
 
 ### 5. CONCLUSIONES 
 
