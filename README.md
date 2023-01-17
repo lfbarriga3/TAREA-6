@@ -4,24 +4,24 @@
 
 **1.1 Objetivo General**
 
-Reconocer nuevos métodos basados en la ley de ohm y las leyes de kirchhoff de tal manera que sea posible resolver de manera más sencilla ejercicios con mayor grado de dificultad.
+Idenfificar la forma de una onda sinusoidal, de tal manera que sea posible medir y calcular sus características a través de procesos numéricos y en consecuencia determinar voltajes en cd.
 
-Conocer los principios básicos de magnetismo y electromagnetismo a través de la teoría con el propósito de aplicar dichos conocimientos a la resolución de problemas
-
+Analizar la contrucción y las características que tiene un capacitor de tal manera que se pueda utilizar en el análisis de circuitos.
 
 **1.2 Objetivos Específicos**
 
-Recordar los procesos algebraicos para la resolución de sistemas de ecuaciones.
+Analizar la forma y las características que posee una onda sinusoidal
 
-Reconocer la diferencia entre lazo, nodo y rama.
+Utilizar fasores que nos permitan representar a la onda seno
 
-Utilizar el método de la corriente en ramas, lazos y nodos para determinar cantidades desconocidas en un circuito
+Aplicar las leyes de circuitos básicos que se vieron el los capítulos anteriores para circuitos resistivos
 
-Entender los principios de operación en varios tipos de dispositivos electromagnéticos
+Estudiar el funcionamiento de circuitos conmutados a través de un capasitor
 
-Describir aplicaciones relacionadas a la inducción electromagnética
+Reconocer los tipos de capacitores y aprender su funcionamiento tanto en serie como en paralelo.
 
- Conoce r el principio de histéresis magnética
+Analizar circuitos de cd con capacitors conmutados 
+
 
 ### 2. MARCO TEÓRICO
 
@@ -176,20 +176,16 @@ de los puntos siguientes:***
 ![image](https://user-images.githubusercontent.com/116696484/212769031-b86ceb5b-2da6-47a3-b613-1b5cfd598c3c.png)
 
 
-***26. Se aplica un voltaje sinusoidal al circuito resistivo de la figura 11-80. Determine los valores siguientes.***
+***26. Se aplica un voltaje sinusoidal al circuito resistivo de la figura 11-80. Determine los valores siguientes***
 
 ![image](https://user-images.githubusercontent.com/116696484/210363227-717cea3c-b918-4693-8736-4dbd8b4108aa.png)
 
-***28. Determine el voltaje rms entre los extremos de R3 en la figura 11-82 Determine los valores siguientes:
+***28. Determine el voltaje rms entre los extremos de R3 en la figura 11-82 Determine los valores siguientes:***
 
-(a) Irms
-
+***(a) Irms
 (b) Iprom
-
 (c) Ip
-
 (d) Ipp
-
 (e) i en el pico positivo***
 
 ![image](https://user-images.githubusercontent.com/116696484/212769152-c3dcff95-c551-43e6-975c-97d8b3df4e71.png)
@@ -199,36 +195,36 @@ de los puntos siguientes:***
 ![image](https://user-images.githubusercontent.com/116696484/212769175-14725449-437a-4f45-a1bc-d2119d61dbd5.png)
 
 
-**** 32. La figura 11-83 muestra una fuente de voltaje sinusoidal dispuesta en serie con una fuente de cd. Efectivamente, los dos voltajes están superpuestos. Determine la disipación de potencia en el resistor de carga***
+***32. La figura 11-83 muestra una fuente de voltaje sinusoidal dispuesta en serie con una fuente de cd. Efectivamente, los dos voltajes están superpuestos. Determine la disipación de potencia en el resistor de carga***
 
 ![image](https://user-images.githubusercontent.com/116696484/212769221-40f50488-62d8-4860-867c-9dbf08a81938.png)
 
-**34. La frecuencia de repetición de una forma de onda pulsante es de 2 kHz, y el ancho de pulso es de 1 ms. ¿Cuál es el ciclo de trabajo en porcentaje?**
+***34. La frecuencia de repetición de una forma de onda pulsante es de 2 kHz, y el ancho de pulso es de 1 ms. ¿Cuál es el ciclo de trabajo en porcentaje?***
 
 ![image](https://user-images.githubusercontent.com/116696484/212769258-43ff69bd-dc72-4456-a571-48fc3fdd60bf.png)
 
 
-**36. Determine el ciclo de trabajo de cada una de las formas de onda mostradas en la figura 11-86.**
+***36. Determine el ciclo de trabajo de cada una de las formas de onda mostradas en la figura 11-86.***
 
 ![image](https://user-images.githubusercontent.com/116696484/212769301-f911371c-2b22-4440-bd7f-31989aea40f9.png)
 
 
-**38. ¿Cuál es la frecuencia de cada una de las formas de onda mostradas en la figura 11-86?**
+***38. ¿Cuál es la frecuencia de cada una de las formas de onda mostradas en la figura 11-86?***
 
 ![image](https://user-images.githubusercontent.com/116696484/212769336-7f80b26b-16fb-4c44-901a-30233d0b0983.png)
 
 
-**40. Una forma de onda no sinusoidal llamada escalonada se muestra en la figura 11-88. Determine su valor promedio**
+***40. Una forma de onda no sinusoidal llamada escalonada se muestra en la figura 11-88. Determine su valor promedio***
 
 ![image](https://user-images.githubusercontent.com/116696484/212769386-b6fbb095-c2bb-4499-9352-4566ef8063e7.png)
 
 
-**42. ¿Cuál es la frecuencia fundamental de la onda cuadrada mencionada en el problema 41?**
+***42. ¿Cuál es la frecuencia fundamental de la onda cuadrada mencionada en el problema 41?***
 
 ![image](https://user-images.githubusercontent.com/116696484/212769410-e9df668d-0b7b-4520-b664-0612ecac8a74.png)
 
 
-**44. Con base en los ajustes del instrumento y en un examen de la pantalla del osciloscopio y de la tarjeta prototipo mostrados en la figura 11-90, determine la frecuencia y el valor pico de las señales de entrada y salida. La forma de onda mostrada es el canal 1. Trace la forma de onda del canal 2 como aparecería en el osciloscopio con los ajustes indicados**
+***44. Con base en los ajustes del instrumento y en un examen de la pantalla del osciloscopio y de la tarjeta prototipo mostrados en la figura 11-90, determine la frecuencia y el valor pico de las señales de entrada y salida. La forma de onda mostrada es el canal 1. Trace la forma de onda del canal 2 como aparecería en el osciloscopio con los ajustes indicados***
 
 ![image](https://user-images.githubusercontent.com/116696484/212769467-d0192847-fd05-4a9e-9ba0-2e2255d5de31.png)
 
@@ -237,87 +233,128 @@ de los puntos siguientes:***
 
 ***2.Transforme los siguientes valores de microfarads a picofarads***
 
+![image](https://user-images.githubusercontent.com/116696484/212780198-c51081a2-a5c1-41df-acd2-8f7207f9f350.png)
 
 
 ***4. Transforme los siguientes valores de farads a microfarads***
 
-![image](https://user-images.githubusercontent.com/116696484/210411972-f4e3f214-afa0-4e83-82df-ccfc2bd3a17c.png)
-
-![image](https://user-images.githubusercontent.com/116696484/210411995-02aafd25-773d-4fe1-beae-bae57158edbe.png)
-
+![image](https://user-images.githubusercontent.com/116696484/212780220-afc094e8-2b78-4afa-a1fb-953be4167416.png)
 
 ***6. ¿Qué tamaño de capacitor es capaz de guardar 10 mJ de energía con 100 V entre sus placas?***
 
-![image](https://user-images.githubusercontent.com/116696484/210412065-e37c92b6-78ae-4cfa-a0d1-f1765cef2ac2.png)
+![image](https://user-images.githubusercontent.com/116696484/212780241-95a6e5f2-38b7-42ea-bea6-baa5788e2816.png)
 
 ***8. Un capacitor de mica tiene placas cuadradas de 3.8 cm por lado con una separación entre ellas de 2.5 mils. ¿Cuál es la capacitancia?***
 
-![image](https://user-images.githubusercontent.com/116696484/210412111-640759f6-5c57-4188-b633-1115629d1afd.png)
+![image](https://user-images.githubusercontent.com/116696484/212780289-c9f67196-d372-4ba1-ae6a-a1072ca64439.png)
 
 ***10. Un estudiante desea construir un capacitor de 1 F con dos placas cuadradas para un proyecto de feria de las ciencias. Planea utilizar un dieléctrico de papel (er 5 2.5) de 8 3 1025 m de espesor. La feria de las ciencias se va a llevar a cabo en el “Astrodomo”. ¿Cabrá su capacitor en el “Astrodomo”? ¿De qué tamaño serían las placas si pudieran ser construidas?***
 
-![image](https://user-images.githubusercontent.com/116696484/210412168-0c3efcd2-eb24-4ef5-8fe7-073165178879.png)
+![image](https://user-images.githubusercontent.com/116696484/212780309-e14a38a8-c425-41bb-8eee-674d5d93d197.png)
 
 ***12. A temperatura ambiente (25°C), se especifica que cierto capacitor sea de 1000 pF. El capacitor tiene coeficiente de temperatura negativo de 200 ppm/°C. ¿Cuál es su capacitancia a 75°C?***
+
+![image](https://user-images.githubusercontent.com/116696484/212780328-19ed506c-0124-408f-9ae9-84449eca3eb7.png)
 
 
 ***14. En la construcción de un capacitor de hojas de mica y laminillas apiladas, ¿cómo se incrementa el área de placas?***
 
-El puntero en un movimiento de d'Arsonval es desviado por la fuerza electromagnética cuando hay corriente a través de la bobina.
+Las laminillas metálicas forman la placa, con las laminillas alternas conectadas entre sí, para incrementar el área de placas y se utilizan mas capas para incrementar el área de placas, por lo cual se incrementa la capacitancia.
 
 
 ***16. Muestre cómo conectar un capacitor electrolítico de un lado a otro de R2 entre los puntos A y B en la figura 12-66***
 
-![image](https://user-images.githubusercontent.com/116696484/210412367-be6a9e03-ebcd-4a19-a749-e8be809aca7d.png)
+![image](https://user-images.githubusercontent.com/116696484/212780447-f83852a8-7ee2-4694-a661-a450c0ed6552.png)
 
 ***18. Identifique las partes del capacitor de disco de cerámica mostrado en la vista de corte de la figura 12-67. ***
 
-![image](https://user-images.githubusercontent.com/116696484/210412537-c2163b90-114f-4672-9f59-7a5e0b2338e1.png)
+![image](https://user-images.githubusercontent.com/116696484/212780479-3bec2565-6c65-4191-9500-a5a73b09a773.png)
 
 ***20. Cinco capacitores de 1000 pF están en serie. ¿Cuál es la capacitancia total?***
 
-Movimiento relativo, Polaridad del voltaje inducido y la corriente inducida
+![image](https://user-images.githubusercontent.com/116696484/212780536-a04b2cf5-6ac1-4907-bf8d-b7b83ced73b0.png)
 
 ***22. Para cada circuito de la figura 12-69, determine el voltaje entre las terminales de cada capacitor***
 
-La ley de Faraday establece que un campo magnético cambiante induce un voltaje en una bobina que es directamente proporcional a la velocidad de cambio del campo magnético y al número de vueltas que haya en la bobina. La ley de Lenz define la polaridad o dirección del voltaje inducido.
+![image](https://user-images.githubusercontent.com/116696484/212780556-e5e0677a-2ce6-47c3-924b-918433c096f9.png)
+
+
+![image](https://user-images.githubusercontent.com/116696484/212780570-5f9e0fd3-4178-4ac8-82fe-f0c5f3eb718b.png)
+
 
 ***24. La carga total guardada por los capacitores en serie de la figura 12-70 es de 10 mC. Determine el voltaje entre las terminales de cada capacitor. ***
 
-![image](https://user-images.githubusercontent.com/116696484/210412729-eaf23ad7-8c8b-4bd4-8cc9-c19414724c0a.png)
+![image](https://user-images.githubusercontent.com/116696484/212780652-49ea70a6-73df-4e85-a5d0-431cabffec74.png)
+
 
 ***26. ¿Cuál es la carga en cada capacitor de la figura 12-71?***
 
-![image](https://user-images.githubusercontent.com/116696484/210412843-11fb1f5d-69fa-4dd2-a457-d2bd29a2453d.png)
+![image](https://user-images.githubusercontent.com/116696484/212780687-51885506-2596-4a29-a274-77a9a355a187.png)
 
 **28. ¿Cuál es el voltaje entre los nodos A y B en cada circuito de la figura 12-72?**
 
+![image](https://user-images.githubusercontent.com/116696484/212780715-10d5393c-d845-4dfd-9384-0b4d536bd9e0.png)
+
+
 **30. Determine la constante de tiempo para cada una de las combinaciones en serie:**
+
+![image](https://user-images.githubusercontent.com/116696484/212780742-1727c0e0-8b1d-4df8-86af-da663d848f0f.png)
+
 
 **32. En el circuito de la figura 12-74, inicialmente el capacitor está descargado. Determine el voltaje presente en el capacitor en los instantes posteriores al cierre del interruptor:**
 
+![image](https://user-images.githubusercontent.com/116696484/212780778-cf13ab57-c927-43e4-b31f-80e03186e063.png)
+
+
 **34. Repita el problema 32 con los siguientes intervalos de tiempo:**
+
+![image](https://user-images.githubusercontent.com/116696484/212780793-8ff9dd2f-cc13-4186-b15b-2dc51c004d50.png)
+
 
 
 **36. Derive la fórmula para determinar el tiempo en cualquier punto de una curva de voltaje exponencial creciente. Use esta fórmula para calcular el tiempo en el cual el voltaje que aparece en la figura 12-76 llega a 6 V después de cerrar el interruptor.** 
 
+![image](https://user-images.githubusercontent.com/116696484/212780837-1441542e-73d1-4d64-a6f0-524505eb5864.png)
+
 
 **38. ¿Cuánto tiempo requiere el capacitor C para descargarse a 3 V en la figura 12-75?**
 
+![image](https://user-images.githubusercontent.com/116696484/212780861-2e38aae4-c257-4766-91ed-4a7c73346a59.png)
+
+
 **40. En la figura 12-78, inicialmente el capacitor está descargado. En el instante t 5 10 ms después de que se cierra el interruptor, el voltaje instantáneo en el capacitor es de 7.2 V. Determine el valor de R.**
+
+![image](https://user-images.githubusercontent.com/116696484/212780883-b83d0748-124c-49de-8d18-35da3875d76a.png)
+
 
 **42. ¿Cuál es el valor de la reactancia capacitiva total en cada circuito de la figura 12-80 **
 
+![image](https://user-images.githubusercontent.com/116696484/212780910-5fb117f6-0ad4-4c47-88c1-4f21adaa4999.png)
+
+
 **44. En cada circuito de la figura 12-80, ¿qué frecuencia se requiere para producir una XC de 100 Æ? ¿Una XC de 1 kÆ?**
 
+![image](https://user-images.githubusercontent.com/116696484/212780940-64ba4bbc-5511-404e-9095-f116691ad7af.png)
+
+
 **46. Se aplica un voltaje de 10 kHz a un capacitor de 0.0047 mF, y se mide una corriente rms de 1 mA. ¿Cuál es el valor del voltaje?**
+
+![image](https://user-images.githubusercontent.com/116696484/212780966-dd8364ff-1e29-46e6-963c-2c2dab995886.png)
 
 
 **48. Determine el voltaje de ca entre las terminales de cada capacitor y la corriente en cada rama del circuito de la figura 12-81.**
 
+![image](https://user-images.githubusercontent.com/116696484/212781001-4386fcd1-fcae-42c6-8bc1-ba2f7657ed7e.png)
+
+
 **50. Si en la figura 12-81 C4 se abriera, determine los voltajes que se medirían entre las terminales de los otros capacitores.**
 
+![image](https://user-images.githubusercontent.com/116696484/212781036-5a005d13-cc28-449b-b2de-a810f9422c94.png)
+
+
 **52. Idealmente, ¿cuál deberá ser la reactancia de un capacitor de desvío para eliminar un voltaje de ca de 10 kHz en un punto dado en un circuito amplificador?**
+
+Cuando un capacitor grande es conectado desde un punto de polarizacion hacia tierra es cuando se produce una trayectoria de baja rectancia de voltaje en ca y deja el voltaje cd constante en algun punto dado.Entonces la frecuencia como es baja el capacitor de desvió pierde eficiencia debido a que la reactancia incrementa.
 
 ### 4. VIDEO
 
@@ -325,10 +362,10 @@ https://youtu.be/WEAH1AmQp0Q
 
 ### 5. CONCLUSIONES 
 
-A lo largo del presente informe se ha identificado que en el método de la corriente en ramas, se aplicarán las leyes de Kirchhoff para determinar la corriente en varias ramas de un circuito de múltiples lazos. Un lazo es una trayectoria completa para la corriente que circula en un circuito. En el método de la corriente en lazos, se determinarán las corrientes de lazo, y no las corrientes de rama. En el método del voltaje en nodos, se determinarán los voltajes presentes en los nodos independientes de un circuito.
+A lo largo del presente informe se aprendió que un voltaje alterno es uno que cambia de polaridad con cierta rapidez. La forma de onda sinusoidal (onda seno) es el tipo más común y fundamental porque todos los demás tipos de formas de onda repetitivas pueden ser descompuestos en ondas seno compuestas. La onda seno es un tipo periódico de forma de onda que se repite a intervalos fijos
 
-Adicionalmente se realizó una inducción a magnetismo y electromagnetismo de tal manera que fue posible aprender conceptos básicos referentes al tema tratado y para complementar se realizaron ejercicios de aplicación para un mejor entendimiento del capítulo.
-
+Adicionalmente se conoció que un capacitor es un dispositivo eléctrico que puede guardar carga eléctrica, con lo cual crea un campo eléctrico que, a su vez, guarda energía. La medida de
+la capacidad de almacenamiento de energía de un capacitor es su capacitancia. Cuando se aplica unacseñal sinusoidal a un capacitor, éste reacciona de cierta manera y produce oposición a la corriente, la cual depende de la frecuencia y la señal aplicada. Esta oposición a la corriente se llama reactancia capacitiva.
 
 
 ### 6. BIBLIOGRAFÍA
